@@ -1,0 +1,36 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Hawaii",
+      "topping": "Pineapple",
+      "price": 10.5,
+      "size":3,
+      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38"
+    },
+    {
+      "id": 2,
+      "name": "Funghi",
+      "topping": "Mushrooms",
+      "price": 11,
+      "size":1,
+      "imageUrl": "https://images.pexels.com/photos/3731423/pexels-photo-3731423.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Margherita",
+      "topping": "Cheese",
+      "price": 9.09,
+      "size":2,
+      "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591"
+    },
+    {
+      "id": 4,
+      "name": "Pepperoni",
+      "topping": "Salami",
+      "price": 12.40,
+      "size":1,
+      "imageUrl": "https://images.pexels.com/photos/708587/pexels-photo-708587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+  ]
+}
